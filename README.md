@@ -1,4 +1,4 @@
-# umami
+# umami for PCPC
 
 Umami is a simple, fast, website analytics alternative to Google Analytics.
 
